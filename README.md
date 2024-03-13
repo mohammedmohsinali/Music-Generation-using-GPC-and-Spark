@@ -1,1 +1,3 @@
 # Music-Generation-using-GPC-and-Spark
+
+This project explores the use of Big Data and Deep Learning to create new compositions of music. For this project, we used using Google Cloud Platform (GCP), Pyspark, and Tensorflow as initial tools and frameworks. Using the MusicNet Dataset, we have trained different RNN and LSTM architectures that input tokenized music files and output predictions for notes(generation of new music). Using Machine Learning for music is a relatively new area of study, our project provides an investigation and some methods for creating an effective model for the music industry.
